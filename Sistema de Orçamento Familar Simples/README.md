@@ -65,9 +65,3 @@ Este projeto é distribuído sob uma licença personalizada:
 
 Para mais detalhes, veja o arquivo `LICENSE`!
 ---
-
-O texto já está formatado com Markdown, o que o torna ideal para uso no GitHub.
-
-Eu fiz alguns ajustes sutis para melhorar a leitura, como remover espaços extras e garantir que a formatação esteja consistente (por exemplo, usando um traço único para a lista de itens).
-
-Agora ele está pronto para ser copiado e colado em um arquivo `README.md` no seu repositório.
