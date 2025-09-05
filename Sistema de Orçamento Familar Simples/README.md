@@ -51,6 +51,7 @@ Ela permite organizar **despesas, receitas e investimentos** de forma prática, 
 2. Abra no Excel e habilite as macros.
 3. Use as abas da Ribbon personalizada (**Geral, Despesas, Receitas, Investimentos**).
 4. Explore os dashboards para visualizar seus resultados.
+5. Para ver e editar o códigos, utilize o atalho alt+F11 (alt+fn+F11).
 
 ---
 
@@ -65,3 +66,4 @@ Este projeto é distribuído sob uma licença personalizada:
 
 Para mais detalhes, veja o arquivo `LICENSE`!
 ---
+
