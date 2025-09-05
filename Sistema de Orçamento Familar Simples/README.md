@@ -116,7 +116,8 @@ Este projeto é distribuído sob uma licença personalizada:
 
 
 
-Para mais detalhes, veja o arquivo "LICENSE"
+Para mais detalhes, veja o arquivo `LICENSE`!
+
 
 
 
