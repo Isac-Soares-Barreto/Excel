@@ -13,10 +13,6 @@ Este projeto vai além das fórmulas tradicionais do Excel. O objetivo é transf
   * 🤖 **Automação Inteligente:** Scripts VBA que automatizam tarefas repetitivas, como a organização de dados, cálculos de horas estudadas e a geração de dashboards.
   * ⚙️ **Estrutura Flexível com XML:** A estrutura da Ribbon é definida em XML, permitindo fácil manutenção e expansão da interface do usuário.
 
-## 📸 Screenshots
-
-
-
 ## 🛠️ Tecnologias e Conceitos Aplicados
 
 Este projeto foi construído utilizando as seguintes tecnologias e conceitos avançados no ambiente Excel:
@@ -48,7 +44,7 @@ O VBA é o cérebro por trás de toda a automação e lógica da planilha.
 O XML é usado principalmente para a customização da interface do usuário, mas o conceito pode ser expandido para outras funcionalidades.
 
   - **RibbonX:** Linguagem de marcação baseada em XML usada para definir a estrutura de abas, grupos e botões da Ribbon.
-  - **Portabilidade de Dados (Exemplo de uso futuro):** O conhecimento de XML abre portas para importar e exportar dados de e para outras aplicações de forma estruturada.
+  - **Portabilidade de Dados:** O conhecimento de XML abre portas para importar e exportar dados de e para outras aplicações de forma estruturada.
 
 ## ⚙️ Como Utilizar
 
@@ -59,7 +55,7 @@ O XML é usado principalmente para a customização da interface do usuário, ma
 
 ### Passos
 
-1.  **Baixe o arquivo:** Faça o download do arquivo `.xlsm` da pasta `/src` (ou da seção de Releases).
+1.  **Baixe o arquivo:** Faça o download do arquivo `.xlsm` das pastas disponíveis para estudo.
 2.  **Abra o arquivo no Excel:** Ao abrir, o Excel provavelmente exibirá um aviso de segurança.
 3.  **Habilite o Conteúdo:** Clique no botão **"Habilitar Conteúdo"** ou **"Habilitar Macros"** na barra de aviso amarela. Isso é crucial para que o código VBA e a Ribbon personalizada funcionem.
 4.  **Explore a Nova Aba:** Após habilitar as macros, uma nova aba com o nome do projeto deverá aparecer no menu superior do Excel. Utilize os botões para interagir com a planilha.
@@ -67,12 +63,6 @@ O XML é usado principalmente para a customização da interface do usuário, ma
 ## 🤝 Como Contribuir
 
 Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será **muito bem-vinda**.
-
-1.  Faça um **Fork** do projeto.
-2.  Crie uma nova **Branch** (`git checkout -b feature/sua-feature-incrivel`).
-3.  Faça o **Commit** das suas alterações (`git commit -m 'Adiciona sua-feature-incrivel'`).
-4.  Faça o **Push** para a Branch (`git push origin feature/sua-feature-incrivel`).
-5.  Abra um **Pull Request**.
 
 ## 👤 Autor
 
